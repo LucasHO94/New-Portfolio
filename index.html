@@ -91,7 +91,17 @@
             <section id="contato">
                 <div class="me-contate">
                     <p>Contate minha equipe para a gente criar um bonito site para você</p>
-                    <button type="button">Enviar mensagem</button><!--button-->
+                    <form action="https://formsubmit.co/lucasho94@hotmail.com" method="POST" class="form">
+                        <label for="name">Nome:</label>
+                        <input type="text" name="name" placeholder="Nome" id="name" required>
+                        <label for="email">E-mail:</label>
+                        <input type="email" name="email" placeholder="nome@nome.com" id="email" required>
+                        <label for="message">Mensagem:</label>
+                        <textarea name="message" placeholder="Escreva aqui.." id="message" required></textarea>
+                        <input type="hidden" name="_captcha" value="false">
+                        <input type="hidden" name="_next" value="http://127.0.0.1:5500/obrigado.html">
+                        <button type="submit">Enviar</button>
+                   </form>
                 </div><!--me-contate-->
         
                 <!--Rodapé--->
