@@ -32,7 +32,7 @@ header.rolagem{
 }
 
 .logo{
-    color: #e0d41f;
+    color: #1fa9e0;
     font-size: 45px;
     cursor: pointer;
     letter-spacing: 1px;
@@ -67,7 +67,7 @@ header ul li a{
     height: 40px;
     border: 0;
     border-radius: 5px;
-    background-color: #e0d41fce;
+    background-color: #1fa9e0ce;
     color: #fff;
     cursor: pointer;
     transition: .2s;
@@ -115,7 +115,7 @@ header ul li a{
 }
 
 .Text-sobre{
-    width: 550px;
+    width: 900px;
   }
 
 .main-sobre{
@@ -127,7 +127,7 @@ header ul li a{
 }
 
 .Text-sobre h2{
-    color: #e0d41f;
+    color: #1fa9e0;
     font-size: 75px;
     text-transform: capitalize;
     margin-bottom: 20px;
@@ -190,7 +190,7 @@ button:hover{
 }
 
 .Card{
-    background: #383f1177;
+    background: #11383f77;
     height: 365px;
     width: 335px;
     border-radius: 20px;
@@ -203,7 +203,7 @@ button:hover{
 
 .Card i{
     font-size: 70px;
-    color: #e0d41f;
+    color: #1fa9e0;
 }
 
 h3{
@@ -282,7 +282,7 @@ h3{
 }
 
 .form button{
-    color: #e0d41f;
+    color: #1fa9e0;
     display: block;
     padding: 1rem;
     font: inherit;
@@ -324,7 +324,7 @@ footer p{
 }
 
 .Redes-sociais a{
-    background-color: #e0d41f;
+    background-color: #1fa9e0;
     width: 45px;
     height: 45px;
     padding: 15px;
