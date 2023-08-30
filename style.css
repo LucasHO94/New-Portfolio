@@ -127,7 +127,7 @@ header ul li a{
 }
 
 .Text-sobre h2{
-    color: #fff;
+    color: #e0d41f;
     font-size: 75px;
     text-transform: capitalize;
     margin-bottom: 20px;
@@ -190,40 +190,34 @@ button:hover{
 }
 
 .Card{
-    background: #191919;
+    background: #383f1177;
     height: 365px;
     width: 335px;
     border-radius: 20px;
     margin: 15px;
-    position: relative;
+    position: inherit;
     overflow: hidden;
     text-align:  center;
     
 }
 
 .Card i{
-    font-size: 50px;
-    display: block;
-    text-align: center;
-    margin: 25px 0px;
-    color: #757575;
+    font-size: 70px;
+    color: #e0d41f;
 }
 
-h5{
+h3{
     color: #fff;
-    font-size: 23px;
-    margin-bottom: 15px;
+    font-size: 28px;
+    margin: 15px 0;
 }
 
 .Paragrafo-button{
-    color: #fcfc;
-    font-size: 16px;
-    line-height: 27px;
-    margin-bottom: 25px;
-}
-
-.Paragrafo-button button{
-    margin-top: 25px;
+    color: #fff;
+    padding: 0px;
+    border-radius: 20px;
+    margin-top: 45px;
+    transition: .2s;
 }
 
 .me-contate {
@@ -288,6 +282,7 @@ h5{
 }
 
 .form button{
+    color: #e0d41f;
     display: block;
     padding: 1rem;
     font: inherit;
@@ -329,7 +324,7 @@ footer p{
 }
 
 .Redes-sociais a{
-    background-color: #757575;
+    background-color: #e0d41f;
     width: 45px;
     height: 45px;
     padding: 15px;
