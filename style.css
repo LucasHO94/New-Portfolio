@@ -32,7 +32,7 @@ header.rolagem{
 }
 
 .logo{
-    color: #757575;
+    color: #e0d41f;
     font-size: 45px;
     cursor: pointer;
     letter-spacing: 1px;
@@ -67,7 +67,7 @@ header ul li a{
     height: 40px;
     border: 0;
     border-radius: 5px;
-    background-color: #757575ce;
+    background-color: #e0d41fce;
     color: #fff;
     cursor: pointer;
     transition: .2s;
